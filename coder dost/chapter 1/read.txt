@@ -1,0 +1,5 @@
+Both of these methods accomplish the same task, but the first one utilizes the built-in promises of the fs module, while the second one wraps the callback-based fs.readFile() inside a Promise manually.
+
+
+
+
